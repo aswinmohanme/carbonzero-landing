@@ -1,7 +1,7 @@
 module.exports = {
   theme: {
       fontFamily: {
-          'sans': ['"Rubik"', 'sans-serif']
+          'sans': ['"Lexend Deca"', 'sans-serif']
       }
   },
   variants: {},
